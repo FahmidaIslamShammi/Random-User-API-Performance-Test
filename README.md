@@ -1,6 +1,9 @@
 # Random-User-API-Performance-Test
 ## Load Test 
-https://drive.google.com/file/d/15CKAYyFSeDQVFe6dJ0ffkVwj4USeZ_u-/view?usp=share_link
+
+![Load Test](https://user-images.githubusercontent.com/71556293/216762984-63d3420e-1e66-46c7-ab97-460fcc01eb67.PNG)
 
 ## stress test 
-https://drive.google.com/file/d/1tFpa9WHJsLnAxDPpAa0LeD_qN3eOwk-v/view?usp=share_link
+
+
+![Stress Testing](https://user-images.githubusercontent.com/71556293/216763181-4369574d-a0ba-45a4-bdad-eef342c943f1.PNG)
