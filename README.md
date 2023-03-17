@@ -1,4 +1,6 @@
 # Random-User-API-Performance-Test
+## Used URL
+Link: https://random-data-api.com/api/v2/users
 ## Load Test 
 
 ![Load Test](https://user-images.githubusercontent.com/71556293/216762984-63d3420e-1e66-46c7-ab97-460fcc01eb67.PNG)
